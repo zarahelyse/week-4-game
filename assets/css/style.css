@@ -1,0 +1,38 @@
+.jumbotron {
+    font-family: 'Calibri', sans-serif;
+    text-align: center;
+    font-size: 80px;
+}
+
+.instructions {
+    font-size: 18px;
+    font-family: 'Calibri', sans-serif;
+}
+
+.crystal1 img{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin:40px;
+}
+
+.crystal2 img{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin:40px;
+}
+
+.crystal3 img{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin:40px;
+}
+
+.crystal4 img{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin:40px;
+}
